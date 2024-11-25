@@ -1,0 +1,9 @@
+﻿{
+  "Description": " 攻撃をよけながら敵を迎撃しよう！\n【操作方法】\n　　　W:上\nA:左　 S :下　D:右     Space：攻撃（決定）",
+  "ExecutablePath": "data/顔文字シューティング2222051/bin/KAOMOJI_Shooting.exe",
+  "Genre": "シューティングゲーム",
+  "MaxDifficulty": "Normal",
+  "MinDifficulty": "Normal",
+  "ScreenshotPath": "data/顔文字シューティング2222051/スクリーンショット.png",
+  "Title": "顔文字シューティング"
+}

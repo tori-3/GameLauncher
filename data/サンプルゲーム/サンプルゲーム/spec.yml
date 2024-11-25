@@ -1,0 +1,10 @@
+Id: "顔文字シューティング2222051"
+Title: "顔文字シューティング"
+Genre: "ゲーム"
+ScreenshotPath: "スクリーンショット.png"
+ExecutablePath: bin\KAOMOJI_Shooting.exe
+Argument: 
+SourcePath: src\
+TimeLimit: 00:00:00
+Description: "攻撃をよけながら敵を迎撃しよう！\n【操作方法】\r\n　　　W:上\r\nA:左　 S :下　D:右     Space：攻撃（決定）"
+IsLate: false
